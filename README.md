@@ -20,6 +20,7 @@ I contribute a technical blog series on FPGA-based design and real-time signal p
 ## 🌐 Find me here
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ijaz-swarmlab)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TechXORT)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ijazmuhammad898@gmail.com)
 
 ## 🛠️ Tech Stack
@@ -64,8 +65,8 @@ I contribute a technical blog series on FPGA-based design and real-time signal p
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ijaz-Muhammad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ijaz-Muhammad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&icon=1&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Ijaz-Muhammad&icon=1&color=3)](https://visitcount.itsvg.in)
