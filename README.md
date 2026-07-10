@@ -2,7 +2,7 @@
 
 **FPGA & RTL Engineer | Verilog · VHDL | RF/DSP Systems | Embedded Linux**
 
-I work at the intersection of algorithm design and hardware reality, taking designs from RTL through timing closure to silicon running correctly under real-world conditions. Over 7 years across the full FPGA development cycle on Xilinx and Intel platforms: RTL design, digital logic architecture, DSP algorithm implementation, high-speed AXI-Stream pipelines, and RF transceiver integration with production platforms including the AD9361, ADRV9002, and ADRV9009.
+I work at the intersection of algorithm design and hardware reality, taking designs from RTL through timing closure to silicon running correctly under real-world conditions. Over 7 years across the full FPGA development cycle on Xilinx and Intel platforms: RTL design, digital logic architecture, DSP algorithm implementation, high-speed AXI-Stream pipelines, and RF transceiver integration with production platforms including the AD9361, AD9364, ADRV9002, and ADRV9009.
 
 I work across the full stack, from HDL through high-speed data interfaces into embedded Linux, and I'm as comfortable on the bench with a spectrum analyzer and oscilloscope as I am at the RTL simulator, validating that designs behave as intended under real conditions.
 
