@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Ijaz
 
-**FPGA & RTL Engineer | Verilog · VHDL | RF/DSP Systems | Embedded Linux**
+**FPGA TEAM LEAD | Verilog · VHDL | RF/DSP Systems | Embedded Linux**
 
 I work at the intersection of algorithm design and hardware reality, taking designs from RTL through timing closure to silicon running correctly under real-world conditions. Over 7 years across the full FPGA development cycle on Xilinx and Intel platforms: RTL design, digital logic architecture, DSP algorithm implementation, high-speed AXI-Stream pipelines, and RF transceiver integration with production platforms including the AD9361, AD9364, ADRV9002, and ADRV9009.
 
