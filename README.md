@@ -22,7 +22,7 @@ I contribute a technical blog series on FPGA-based design and real-time signal p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ijaz-swarmlab)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TechXORT)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ijazmuhammad898@gmail.com)
-[![Technical Blogs](https://img.shields.io/badge/Technical_Blogs-00599C?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Ijaz-Muhammad/fpga-blogs)
+[![Technical Blogs](https://img.shields.io/badge/Technical_Blogs-00599C?style=for-the-badge&logo=bookstack&logoColor=white)]([https://github.com/Ijaz-Muhammad/fpga-blogs](https://github.com/Ijaz-Muhammad/technical-blogs))
 
 ## 🛠️ Tech Stack
 
