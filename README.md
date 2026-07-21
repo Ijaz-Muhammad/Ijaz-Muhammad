@@ -62,11 +62,9 @@ I contribute a technical blog series on FPGA-based design and real-time signal p
 **Embedded Systems:** MicroBlaze Softcore Processor · RTOS · Device Tree Customization · Kuiper Linux · libiio
 
 **Other:** Stochastic Computing · PCB Design · Version Control (Git/GitHub)
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ijaz-Muhammad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ijaz-Muhammad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Ijaz-Muhammad&icon=1&color=3)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ijaz-Muhammad&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ijaz-Muhammad&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
