@@ -64,28 +64,16 @@ I contribute a technical blog series on FPGA-based design and real-time signal p
 **Other:** Stochastic Computing · PCB Design · Version Control (Git/GitHub)
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 
-## 📊 GitHub Statistics
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 
 <div align="center">
 
-<a href="https://github.com/Ijaz-Muhammad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ijaz-Muhammad&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" />
-</a>
+# Muhammad Ijaz
 
-<a href="https://github.com/Ijaz-Muhammad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ijaz-Muhammad&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-</a>
+**FPGA Team Lead • RTL Design • RF/DSP Systems • Embedded Linux**
 
-<br><br>
-
-<a href="https://github.com/Ijaz-Muhammad">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Ijaz-Muhammad&theme=github-dark&hide_border=true" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Ijaz-Muhammad">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ijaz-Muhammad&theme=github-dark&hide_border=true&area=true" />
-</a>
+![](https://komarev.com/ghpvc/?username=Ijaz-Muhammad&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![](https://img.shields.io/github/followers/Ijaz-Muhammad?style=for-the-badge)
+![](https://img.shields.io/github/stars/Ijaz-Muhammad?affiliations=OWNER&style=for-the-badge)
 
 </div>
